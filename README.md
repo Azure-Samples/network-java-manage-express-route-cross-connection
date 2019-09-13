@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: virtual-network
-- platforms: java
+description: "Getting Started with Network - Manage Express Route Cross Connection - in Java"
+urlFragment: network-java-manage-express-route-cross-connection
 ---
 
 # Getting Started with Network - Manage Express Route Cross Connection - in Java #
